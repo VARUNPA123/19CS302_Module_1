@@ -28,7 +28,8 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/7cae4230-0e30-47e9-b08c-3d3374f398d8)
+<img width="1130" height="184" alt="image" src="https://github.com/user-attachments/assets/39f52830-7d5e-449c-9b8e-5659816fe4bf" />
+
 
 
 
