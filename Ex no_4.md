@@ -32,6 +32,7 @@ return 0;
 ```
 
 ## Output:
+<img width="1132" height="203" alt="image" src="https://github.com/user-attachments/assets/e8b30fa3-0214-4cea-b42d-3521dc9f7422" />
 
 
 
